@@ -40,7 +40,7 @@ The dashboard provides interactive reports using Pivot Tables, Pivot Charts, KPI
 
 ## 📷 Dashboard Preview
 
-> *(Dashboard screenshot will be added here.)*
+![Dashboard Preview](DashboardPreview.png)
 
 ---
 
