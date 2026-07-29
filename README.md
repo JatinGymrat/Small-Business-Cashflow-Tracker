@@ -40,7 +40,17 @@ The dashboard provides interactive reports using Pivot Tables, Pivot Charts, KPI
 
 ## 📷 Dashboard Preview
 
-Dashboard Preview.png
+## Dashboard Preview
+
+![Dashboard](Dashboard%20Preview.png)
+
+## Income Sheet
+
+![Income](Income%20Sheet.png)
+
+## Expense Sheet
+
+![Expense](Expense%20Sheet.png)
 
 ---
 
