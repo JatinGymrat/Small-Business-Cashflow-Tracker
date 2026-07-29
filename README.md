@@ -44,31 +44,31 @@ The dashboard provides interactive reports using Pivot Tables, Pivot Charts, KPI
 
 ### Dashboard
 
-![Dashboard Preview](Dashboard%20Preview.png)
+![Dashboard Preview](Images/Dashboard%20Preview.png)
 
 ---
 
 ### Dashboard with Interactive Slicers
 
-![Dashboard Filtered](Dashboard%20Filtered%20using%20Slicers.png)
+![Dashboard Filtered](Images/Dashboard%20Filtered%20using%20Slicers.png)
 
 ---
 
 ### Income Sheet
 
-![Income Sheet](Income%20Sheet.png)
+![Income Sheet](Images/Income%20Sheet.png)
 
 ---
 
 ### Expense Sheet
 
-![Expense Sheet](Expense%20Sheet.png)
+![Expense Sheet](Images/Expense%20Sheet.png)
 
 ---
 
 ### Pivot Tables Sheet
 
-![Pivot Tables](Pivot%20Tables%20Sheet.png)
+![Pivot Tables](Images/Pivot%20Tables%20Sheet.png)
 ---
 
 ## 📂 Project Structure
